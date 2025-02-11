@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.main{
+    width: 1200px;
+    height: 100vh;
+    margin: 0 auto;
+    
+}
+
+
+
+.navv{
+    /* border: 1px solid black; */
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+.nav1{
+    /* border: 1px solid black; */
+    height: 40px;
+    width: 160px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+  
+
+
+
+}
+.nav1-img{
+  height: 40px;
+  width: 160px;
+  /* border: 1px solid black; */
+
+}
+.nav-link1{
+    font-size: 15px;
+    font-weight: 500;
+
+
+}
+.nav3{
+    height: 50px;
+    width: 140px;
+    /* border: 1px solid black; */
+    border-radius: 15px;
+    font-size: 15px;
+
+
+}
+.nav-item2 {
+    /* border: 1px solid black; */
+    gap: 50px;
+    margin-left: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.ourstory-div {
+    height: 800px;
+    max-width: 1200px;
+    /* margin: 100px auto; */
+    background-image: url(assets/background-image.png);
+    background-size: cover;
+    /* border:1px solid black ; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    margin: 200px auto;
+    
+
+}
+
+.ourstory-div1 {
+    height:600px;
+    width: 600px;
+    /* border:1px solid black ; */
+    text-align: center;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+
+}
+
+.ourstory-div2 {
+    height: 600px;
+    width: 600px;
+    /* border:1px solid black ; */
+    
+
+}
+
+.ourstory-div-background {
+    /* margin: 50px; */
+    display: flex;
+    /* margin-left: px; */
+    justify-content: center;
+    align-items: center;
+    /* border:1px solid black ; */
+    height: 700px;
+
+    width: 100%;
+
+}
+.ourstory-div1p {
+}
+.p1 {
+    font-size: 50px;
+    margin: 80px 80px;
+    font-weight: 800;
+    word-spacing: 5px;
+    text-align: center;
+    font-weight: 800;
+    
+}
+.ourstory-div1-p{
+
+    font-size: 20px;
+   
+    font-weight: 300;
+    margin-left: 80px;
+    text-align: start;
+}
+
+
+.ourstory-div1-p1 {
+    font-size: 45px;
+    margin: 40px 80px;
+    font-weight: 500;
+    word-spacing: 5px;
+    text-align: start;
+}
+
+.nurpur-product-img {
+    height: 500px;
+    width: 600px;
+    margin-top: 20px;
+    /* border:1px solid black ; */
+
+}
+.btn-ourstory{
+    height: 50px;
+    width: 240px;
+    background: black;
+    border-radius: 15px;
+    color: white;
+    margin-left: 100px;
+
+}
+.logo-brand{
+    height: 80px;
+    width: 1200px;
+    margin: 0 auto;
+    border: 1px solid blkack;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.logo-brand-img{
+    height: 50px;
+    width: 100px;
+    
+
+}
+.services{
+    height: 100px;
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
+.services-p1{
+    height: 50px;
+    width: 140px;
+    /* border: 1px solid black; */
+    background-color:   #B9FF66;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+align-items: center;
+display: flex;
+justify-content: center;
+
+
+}
+.services-p2{
+    height: 50px;
+    width: 500px;
+    color: black;
+}
+.main-serchengine{
+    margin-top: 50px;
+    height: 400px;
+    width: 1200px;
+    margin: 0 auto;
+   
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+    
+}
+.main-serchengine1{
+    height: 400px ;
+    width: 500px;
+    display: flex;
+     /* border: 1px solid black; */
+     border-radius: 15px;
+}
+.main-serchengine2{
+    height: 400px ;
+    width: 500px;
+    display: flex;
+    /* border: 1px solid black; */
+    border-radius: 15px;
+
+}
+.srch-p{
+ font-size: 12px;
+
+}
+.srch-div{
+height: 300px;
+width: 500px;
+
+}
+
+.img-engine{
+    height: 300px;
+    width: 300px;
+}
+.foooter{
+    margin: 0 auto;
+    width: 1200px;
+}
+.card11{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #B9FF66;
+    
+.bgg{
+    background-color: #B9FF66;
+
+}
